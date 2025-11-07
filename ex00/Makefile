@@ -1,7 +1,7 @@
 NAME = swap
 CC = c++
 FLAGS = -Wall -Wextra -Werror -std=c++98
-SRCS = whatever.cpp
+SRCS =  main.cpp
 BOLD = \033[1m
 PINK = \033[0;35m
 OFILES = $(SRCS:.cpp=.o)

@@ -15,3 +15,5 @@ ex00 = Focus on Function templates (concept Generic function)
 ex01 = Focus on Templates + function as argument (concept is 	Higher-order funcion)
 ex02 = Focus on Class Templates (concept is generic data structures like std::vercor)
 
+// A Funcion tamplate = decribe what a finction looks like. 
+// Can be use to generate as many overloaded cuntions as needed each using a diffrent data types
