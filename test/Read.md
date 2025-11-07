@@ -17,3 +17,8 @@ ex02 = Focus on Class Templates (concept is generic data structures like std::ve
 
 // A Funcion tamplate = decribe what a finction looks like. 
 // Can be use to generate as many overloaded cuntions as needed each using a diffrent data types
+
+
+
+  why the template are so useful:
+	For avoiding the same class for int, float, char ext
